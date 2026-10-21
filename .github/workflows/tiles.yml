@@ -1,0 +1,21 @@
+name: tiles
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pipx install fonttools && pipx inject fonttools brotli
+      - run: ./build.sh
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - run: |
+          git add -A
+          git diff --cached --quiet && exit 0
+          git -c user.name=github-actions[bot] -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -m "Update tiles"
+          git push

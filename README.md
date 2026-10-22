@@ -11,3 +11,4 @@
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:canonical/ubuntu-security-documentation&amp;type=pullrequests"><img src="cards/canonical_ubuntu-security-documentation.svg" alt="canonical/ubuntu-security-documentation" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/gvisor&amp;type=pullrequests"><img src="cards/google_gvisor.svg" alt="google/gvisor" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:rustls/rustls&amp;type=pullrequests"><img src="cards/rustls_rustls.svg" alt="rustls/rustls" width="400"></a>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfCOSE&amp;type=pullrequests"><img src="cards/wolfSSL_wolfCOSE.svg" alt="wolfSSL/wolfCOSE" width="400"></a>

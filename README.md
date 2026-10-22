@@ -8,3 +8,4 @@
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfssl&amp;type=pullrequests"><img src="cards/wolfSSL_wolfssl.svg" alt="wolfSSL/wolfssl" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/gvisor&amp;type=pullrequests"><img src="cards/google_gvisor.svg" alt="google/gvisor" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:rustls/rustls&amp;type=pullrequests"><img src="cards/rustls_rustls.svg" alt="rustls/rustls" width="400"></a>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfTPM&amp;type=pullrequests"><img src="cards/wolfSSL_wolfTPM.svg" alt="wolfSSL/wolfTPM" width="400"></a>

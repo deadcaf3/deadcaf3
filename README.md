@@ -3,9 +3,9 @@
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:LoupVaillant/Monocypher&amp;type=pullrequests"><img src="cards/LoupVaillant_Monocypher.svg" alt="LoupVaillant/Monocypher" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-homomorphic-encryption&amp;type=pullrequests"><img src="cards/apple_swift-homomorphic-encryption.svg" alt="apple/swift-homomorphic-encryption" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/bumble&amp;type=pullrequests"><img src="cards/google_bumble.svg" alt="google/bumble" width="400"></a>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-crypto&amp;type=pullrequests"><img src="cards/apple_swift-crypto.svg" alt="apple/swift-crypto" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-network-evolution&amp;type=pullrequests"><img src="cards/apple_swift-network-evolution.svg" alt="apple/swift-network-evolution" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfTPM&amp;type=pullrequests"><img src="cards/wolfSSL_wolfTPM.svg" alt="wolfSSL/wolfTPM" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-crypto&amp;type=pullrequests"><img src="cards/apple_swift-crypto.svg" alt="apple/swift-crypto" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfssl&amp;type=pullrequests"><img src="cards/wolfSSL_wolfssl.svg" alt="wolfSSL/wolfssl" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-nio-http3&amp;type=pullrequests"><img src="cards/apple_swift-nio-http3.svg" alt="apple/swift-nio-http3" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:canonical/ubuntu-security-documentation&amp;type=pullrequests"><img src="cards/canonical_ubuntu-security-documentation.svg" alt="canonical/ubuntu-security-documentation" width="400"></a>

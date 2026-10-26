@@ -8,6 +8,7 @@
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfTPM&amp;type=pullrequests"><img src="cards/wolfSSL_wolfTPM.svg" alt="wolfSSL/wolfTPM" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfssl&amp;type=pullrequests"><img src="cards/wolfSSL_wolfssl.svg" alt="wolfSSL/wolfssl" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-nio-http3&amp;type=pullrequests"><img src="cards/apple_swift-nio-http3.svg" alt="apple/swift-nio-http3" width="400"></a>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:bitwarden/sdk-internal&amp;type=pullrequests"><img src="cards/bitwarden_sdk-internal.svg" alt="bitwarden/sdk-internal" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:canonical/ubuntu-security-documentation&amp;type=pullrequests"><img src="cards/canonical_ubuntu-security-documentation.svg" alt="canonical/ubuntu-security-documentation" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/gvisor&amp;type=pullrequests"><img src="cards/google_gvisor.svg" alt="google/gvisor" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:rustls/rustls&amp;type=pullrequests"><img src="cards/rustls_rustls.svg" alt="rustls/rustls" width="400"></a>

@@ -1,21 +1,25 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="koi/koi-dark.gif">
-  <img src="koi/koi-light.gif" width="800" alt="Two koi circling a lily pond, drawn from my GitHub activity">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="koi/koi-dark.gif">
+    <img src="koi/koi-light.gif" width="500" alt="Two koi circling a lily pond, drawn from my GitHub activity">
+  </picture>
+</p>
 
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:ultrawidelock/ultrawidelock&amp;type=pullrequests"><img src="cards/ultrawidelock_ultrawidelock.svg" alt="ultrawidelock/ultrawidelock" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:probe-rs/probe-rs&amp;type=pullrequests"><img src="cards/probe-rs_probe-rs.svg" alt="probe-rs/probe-rs" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:LoupVaillant/Monocypher&amp;type=pullrequests"><img src="cards/LoupVaillant_Monocypher.svg" alt="LoupVaillant/Monocypher" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-homomorphic-encryption&amp;type=pullrequests"><img src="cards/apple_swift-homomorphic-encryption.svg" alt="apple/swift-homomorphic-encryption" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/bumble&amp;type=pullrequests"><img src="cards/google_bumble.svg" alt="google/bumble" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-crypto&amp;type=pullrequests"><img src="cards/apple_swift-crypto.svg" alt="apple/swift-crypto" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-network-evolution&amp;type=pullrequests"><img src="cards/apple_swift-network-evolution.svg" alt="apple/swift-network-evolution" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfTPM&amp;type=pullrequests"><img src="cards/wolfSSL_wolfTPM.svg" alt="wolfSSL/wolfTPM" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:tock/tock&amp;type=pullrequests"><img src="cards/tock_tock.svg" alt="tock/tock" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfssl&amp;type=pullrequests"><img src="cards/wolfSSL_wolfssl.svg" alt="wolfSSL/wolfssl" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-nio-http3&amp;type=pullrequests"><img src="cards/apple_swift-nio-http3.svg" alt="apple/swift-nio-http3" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:bitwarden/sdk-internal&amp;type=pullrequests"><img src="cards/bitwarden_sdk-internal.svg" alt="bitwarden/sdk-internal" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:canonical/ubuntu-security-documentation&amp;type=pullrequests"><img src="cards/canonical_ubuntu-security-documentation.svg" alt="canonical/ubuntu-security-documentation" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/gvisor&amp;type=pullrequests"><img src="cards/google_gvisor.svg" alt="google/gvisor" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:rustls/rustls&amp;type=pullrequests"><img src="cards/rustls_rustls.svg" alt="rustls/rustls" width="400"></a>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfCOSE&amp;type=pullrequests"><img src="cards/wolfSSL_wolfCOSE.svg" alt="wolfSSL/wolfCOSE" width="400"></a>
+<p align="center">
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:ultrawidelock/ultrawidelock&amp;type=pullrequests"><img src="cards/ultrawidelock_ultrawidelock.svg" alt="ultrawidelock/ultrawidelock" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:probe-rs/probe-rs&amp;type=pullrequests"><img src="cards/probe-rs_probe-rs.svg" alt="probe-rs/probe-rs" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:LoupVaillant/Monocypher&amp;type=pullrequests"><img src="cards/LoupVaillant_Monocypher.svg" alt="LoupVaillant/Monocypher" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-homomorphic-encryption&amp;type=pullrequests"><img src="cards/apple_swift-homomorphic-encryption.svg" alt="apple/swift-homomorphic-encryption" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/bumble&amp;type=pullrequests"><img src="cards/google_bumble.svg" alt="google/bumble" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-crypto&amp;type=pullrequests"><img src="cards/apple_swift-crypto.svg" alt="apple/swift-crypto" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-network-evolution&amp;type=pullrequests"><img src="cards/apple_swift-network-evolution.svg" alt="apple/swift-network-evolution" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfTPM&amp;type=pullrequests"><img src="cards/wolfSSL_wolfTPM.svg" alt="wolfSSL/wolfTPM" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:tock/tock&amp;type=pullrequests"><img src="cards/tock_tock.svg" alt="tock/tock" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfssl&amp;type=pullrequests"><img src="cards/wolfSSL_wolfssl.svg" alt="wolfSSL/wolfssl" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-nio-http3&amp;type=pullrequests"><img src="cards/apple_swift-nio-http3.svg" alt="apple/swift-nio-http3" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:bitwarden/sdk-internal&amp;type=pullrequests"><img src="cards/bitwarden_sdk-internal.svg" alt="bitwarden/sdk-internal" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:canonical/ubuntu-security-documentation&amp;type=pullrequests"><img src="cards/canonical_ubuntu-security-documentation.svg" alt="canonical/ubuntu-security-documentation" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/gvisor&amp;type=pullrequests"><img src="cards/google_gvisor.svg" alt="google/gvisor" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:rustls/rustls&amp;type=pullrequests"><img src="cards/rustls_rustls.svg" alt="rustls/rustls" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfCOSE&amp;type=pullrequests"><img src="cards/wolfSSL_wolfCOSE.svg" alt="wolfSSL/wolfCOSE" width="500"></a><br>
+</p>

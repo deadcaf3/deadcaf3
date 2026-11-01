@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - uses: deadcaf3/git-koi@a28a601e49dd2f9e1fb4a37711cc7d107e01ebd5 # 2026-11-02, the pond
+      - uses: deadcaf3/git-koi@76e59d77c433fea99889625dcebc8b2eb6ddb191 # 2026-11-02, the dated seal
         with:
           style: pond
           season: auto

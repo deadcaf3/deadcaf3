@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="koi/koi-dark.gif">
+  <img src="koi/koi-light.gif" width="400" alt="Two koi circling a lily pond, drawn from my GitHub activity">
+</picture>
+
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:ultrawidelock/ultrawidelock&amp;type=pullrequests"><img src="cards/ultrawidelock_ultrawidelock.svg" alt="ultrawidelock/ultrawidelock" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:probe-rs/probe-rs&amp;type=pullrequests"><img src="cards/probe-rs_probe-rs.svg" alt="probe-rs/probe-rs" width="400"></a>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:LoupVaillant/Monocypher&amp;type=pullrequests"><img src="cards/LoupVaillant_Monocypher.svg" alt="LoupVaillant/Monocypher" width="400"></a>

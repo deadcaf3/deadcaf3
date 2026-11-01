@@ -9,13 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: pipx install fonttools && pipx inject fonttools brotli
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - run: pipx install fonttools==4.68.0 && pipx inject fonttools brotli==1.2.1
       - run: ./build.sh
         env:
           GH_TOKEN: ${{ github.token }}
       - run: |
-          git add -A
+          git add README.md cards
           git diff --cached --quiet && exit 0
           git -c user.name=github-actions[bot] -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -m "Update tiles"
           git push

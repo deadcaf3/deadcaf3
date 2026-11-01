@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Regenerates README.md and cards/ from merged PRs outside your own account.
 # Needs gh, jq, curl and pyftsubset (fonttools + brotli).
-# shortcut: overwrites README.md whole; add markers if the README ever needs other content.
+# shortcut: rebuilds README.md whole from header.md + cards; put any static content in header.md.
 # shortcut: one API call per PR every run; cache by PR number if it nears the 1000 req/h token limit.
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -47,7 +47,7 @@ EOF
 }
 
 rm -rf tiles cards && mkdir cards
-: >README.md
+cat header.md >README.md
 while IFS=$'\x1f' read -r repo owner name meta; do
   avatar=$tmp/$owner
   [[ -f $avatar ]] || curl -fsSL -o "$avatar" "https://github.com/$owner.png?size=72"

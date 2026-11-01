@@ -1,0 +1,38 @@
+name: Koi
+
+on:
+  schedule:
+    # Just after midnight UTC, so the pond shows the day that just ended.
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/koi.yml]
+
+permissions:
+  contents: write
+
+concurrency: koi
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      # Pin a full commit SHA instead of main once the pond is pushed.
+      - uses: deadcaf3/git-koi@main
+        with:
+          style: pond
+          season: auto
+          output-dir: koi
+      - name: Commit the pond if it changed
+        shell: bash
+        run: |
+          git add koi/koi-light.gif koi/koi-dark.gif
+          if git diff --cached --quiet; then
+            echo "The pond is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "koi: draw the day's pond"
+          git push --quiet

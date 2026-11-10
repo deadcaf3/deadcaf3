@@ -8,9 +8,9 @@
 <p align="center">
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:ultrawidelock/ultrawidelock&amp;type=pullrequests"><img src="cards/ultrawidelock_ultrawidelock.svg" alt="ultrawidelock/ultrawidelock" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:probe-rs/probe-rs&amp;type=pullrequests"><img src="cards/probe-rs_probe-rs.svg" alt="probe-rs/probe-rs" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/bumble&amp;type=pullrequests"><img src="cards/google_bumble.svg" alt="google/bumble" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:LoupVaillant/Monocypher&amp;type=pullrequests"><img src="cards/LoupVaillant_Monocypher.svg" alt="LoupVaillant/Monocypher" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-homomorphic-encryption&amp;type=pullrequests"><img src="cards/apple_swift-homomorphic-encryption.svg" alt="apple/swift-homomorphic-encryption" width="500"></a><br>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/bumble&amp;type=pullrequests"><img src="cards/google_bumble.svg" alt="google/bumble" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-crypto&amp;type=pullrequests"><img src="cards/apple_swift-crypto.svg" alt="apple/swift-crypto" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-network-evolution&amp;type=pullrequests"><img src="cards/apple_swift-network-evolution.svg" alt="apple/swift-network-evolution" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:tock/tock&amp;type=pullrequests"><img src="cards/tock_tock.svg" alt="tock/tock" width="500"></a><br>

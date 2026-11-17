@@ -19,7 +19,7 @@
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:apple/swift-nio-http3&amp;type=pullrequests"><img src="cards/apple_swift-nio-http3.svg" alt="apple/swift-nio-http3" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:bitwarden/sdk-internal&amp;type=pullrequests"><img src="cards/bitwarden_sdk-internal.svg" alt="bitwarden/sdk-internal" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:canonical/ubuntu-security-documentation&amp;type=pullrequests"><img src="cards/canonical_ubuntu-security-documentation.svg" alt="canonical/ubuntu-security-documentation" width="500"></a><br>
-<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:google/gvisor&amp;type=pullrequests"><img src="cards/google_gvisor.svg" alt="google/gvisor" width="500"></a><br>
+<a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:gvisor/gvisor&amp;type=pullrequests"><img src="cards/gvisor_gvisor.svg" alt="gvisor/gvisor" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:longfellow-zk/longfellow-zk&amp;type=pullrequests"><img src="cards/longfellow-zk_longfellow-zk.svg" alt="longfellow-zk/longfellow-zk" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:rustls/rustls&amp;type=pullrequests"><img src="cards/rustls_rustls.svg" alt="rustls/rustls" width="500"></a><br>
 <a href="https://github.com/search?q=is:pr+is:merged+author:deadcaf3+repo:wolfSSL/wolfCOSE&amp;type=pullrequests"><img src="cards/wolfSSL_wolfCOSE.svg" alt="wolfSSL/wolfCOSE" width="500"></a><br>
